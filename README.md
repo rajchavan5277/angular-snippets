@@ -1,20 +1,18 @@
 # Angular links: 
 1. Angular Architecture 
-1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
+  1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
 
-2. Angular Core 
-directives, service, components, forms 
+2. Angular Core  : directives, service, components, forms 
 
 3. Angular Router 
-
 
 4. Angular State management  (ngrx)
 
 5. Angular Reactive programming 
-1. [Reactive programming simple tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
+  1. [Reactive programming simple tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
 
 6. Angular PWA 
-1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
+  1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
 
 7. Angular Animation 
 
