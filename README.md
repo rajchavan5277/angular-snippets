@@ -1,7 +1,41 @@
-# angular links: 
+# Angular links: 
+1. Angular Architecture 
+1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
 
+2. Angular Core 
+directives, service, components, forms 
+
+3. Angular Router 
+
+
+4. Angular State management  (ngrx)
+
+5. Angular Reactive programming 
+1. [Reactive programming simple tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
+
+6. Angular PWA 
 1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
-2. [Virtual Scroll performace optimization](https://medium.com/frontend-journeys/how-virtual-infinite-scrolling-works-239f7ee5aa58)
-3. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
-4. [Performace optimation of select drop down stack overflow](https://stackoverflow.com/questions/53499477/angular-4-binding-dropdown-with-huge-data-set10000-records)
-5. [Reactive programming simple tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
+
+7. Angular Animation 
+
+8. Angular Authentication / Session / Cookie / concurrency
+
+9. Angular Security 
+
+10. Angular Web workers 
+
+11. Angular concurrency, Session, Cookie
+
+12. Angular Build / CI CD / Compiler / AOT
+
+13. Angular Project Directive struture
+
+14. Angular CheatSheet
+
+15. Angular Performace
+1. [Virtual Scroll performace optimization](https://medium.com/frontend-journeys/how-virtual-infinite-scrolling-works-239f7ee5aa58)
+2. [Performace optimation of select drop down stack overflow](https://stackoverflow.com/questions/53499477/angular-4-binding-dropdown-with-huge-data-set10000-records)
+
+
+16 Some Extra reference : 
+1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
