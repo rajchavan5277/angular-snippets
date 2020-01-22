@@ -35,6 +35,7 @@
 2. [Performace optimation of select drop down stack overflow](https://stackoverflow.com/questions/53499477/angular-4-binding-dropdown-with-huge-data-set10000-records)
 
 16 DOM Element : 
-   1. [Check weather element is visible or not]:(https://usefulangle.com/post/118/javascript-intersection-observer)
+   1. [Check weather element is visible or not](https://usefulangle.com/post/118/javascript-intersection-observer)
+   2. [Lazy loading component and visiblitiy](https://medium.com/angular-in-depth/improve-performance-with-lazy-components-f3c5ff4597d2)
 17 Some Extra reference : 
 1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
