@@ -1,6 +1,6 @@
 # Angular links: 
 1. Angular Architecture 
-  1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
+    1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
 
 2. Angular Core  : directives, service, components, forms 
 
