@@ -39,6 +39,7 @@
 16 DOM Element : 
    1. [Check weather element is visible or not](https://usefulangle.com/post/118/javascript-intersection-observer)
    2. [Lazy loading component and visiblitiy](https://medium.com/angular-in-depth/improve-performance-with-lazy-components-f3c5ff4597d2)
+
 17 Some Extra reference : 
     1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
     2. [Angular SEO](https://www.ganatan.com/tutorials/search-engine-optimization-with-angular)
