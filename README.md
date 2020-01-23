@@ -9,14 +9,14 @@
 4. Angular State management  (ngrx)
 
 5. Angular Reactive programming 
-  1. [Reactive programming simple tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
+    1. [Reactive programming simple tutorial](https://coursetro.com/courses/25/A-Comprehensive-RxJS-Tutorial---Learn-ReactiveX-for-JavaScript-)
 
 6. Angular PWA 
-  1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
+    1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
 
 7. Angular Animation 
-  1. [Animation libary ](https://filipows.github.io/angular-animations/)
-  2. [Animation using just class AOS](https://www.npmjs.com/package/aos)
+    1. [Animation libary ](https://filipows.github.io/angular-animations/)
+    2. [Animation using just class AOS](https://www.npmjs.com/package/aos)
 
 8. Angular Authentication / Session / Cookie / concurrency
 
@@ -40,4 +40,5 @@
    1. [Check weather element is visible or not](https://usefulangle.com/post/118/javascript-intersection-observer)
    2. [Lazy loading component and visiblitiy](https://medium.com/angular-in-depth/improve-performance-with-lazy-components-f3c5ff4597d2)
 17 Some Extra reference : 
-1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
+    1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
+    2. [Angular SEO](https://www.ganatan.com/tutorials/search-engine-optimization-with-angular)
