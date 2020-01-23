@@ -15,6 +15,8 @@
   1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
 
 7. Angular Animation 
+  1. [Animation libary ](https://filipows.github.io/angular-animations/)
+  2. [Animation using just class AOS](https://www.npmjs.com/package/aos)
 
 8. Angular Authentication / Session / Cookie / concurrency
 
