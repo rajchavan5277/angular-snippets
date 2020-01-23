@@ -43,3 +43,4 @@
 17 Some Extra reference 
     1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
     2. [Angular SEO](https://www.ganatan.com/tutorials/search-engine-optimization-with-angular)
+    3. [Angular Meta tag](https://www.concretepage.com/angular/angular-meta-service-for-meta-tags)
