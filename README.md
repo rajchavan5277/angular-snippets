@@ -35,6 +35,7 @@
 15. Angular Performace
     1. [Virtual Scroll performace optimization](https://medium.com/frontend-journeys/how-virtual-infinite-scrolling-works-239f7ee5aa58)
     2. [Performace optimation of select drop down stack overflow](https://stackoverflow.com/questions/53499477/angular-4-binding-dropdown-with-huge-data-set10000-records)
+    3. [Lazy loading images](https://www.npmjs.com/package/ng-lazyload-image#demo)
 
 16 DOM Element : 
    1. [Check weather element is visible or not](https://usefulangle.com/post/118/javascript-intersection-observer)
