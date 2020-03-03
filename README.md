@@ -1,4 +1,4 @@
-# Angular links: 
+# Angular links and gist: 
 1. Angular Architecture 
     1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
 
@@ -47,3 +47,4 @@
     1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
     2. [Angular SEO](https://www.ganatan.com/tutorials/search-engine-optimization-with-angular)
     3. [Angular Meta tag](https://www.concretepage.com/angular/angular-meta-service-for-meta-tags)
+    4. [Angular sidebar or use angular material sidebar](https://www.npmjs.com/package/ng-sidebar)
