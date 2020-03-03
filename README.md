@@ -44,7 +44,10 @@
    2. [Lazy loading component and visiblitiy](https://medium.com/angular-in-depth/improve-performance-with-lazy-components-f3c5ff4597d2)
 
 17 Some Extra reference 
-    1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
-    2. [Angular SEO](https://www.ganatan.com/tutorials/search-engine-optimization-with-angular)
-    3. [Angular Meta tag](https://www.concretepage.com/angular/angular-meta-service-for-meta-tags)
-    4. [Angular sidebar or use angular material sidebar](https://www.npmjs.com/package/ng-sidebar)
+  1. [Awesome Angular](https://github.com/brillout/awesome-angular-components)
+  2. [Angular SEO](https://www.ganatan.com/tutorials/search-engine-optimization-with-angular)
+  3. [Angular Meta tag](https://www.concretepage.com/angular/angular-meta-service-for-meta-tags)
+  4. [Angular sidebar or use angular material sidebar](https://www.npmjs.com/package/ng-sidebar)
+
+18. Lint, codesmell, sonar, codelyzer:   
+  1. Coelyzer(https://www.npmjs.com/package/codelyzer)
