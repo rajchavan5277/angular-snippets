@@ -24,7 +24,8 @@
 
 10. Angular Web workers 
 
-11. Angular concurrency, Session, Cookie
+11. Angular concurrency, Session, Cookie : 
+   [Authentication](https://jasonwatmore.com/post/2019/06/22/angular-8-jwt-authentication-example-tutorial)
 
 12. Angular Build / CI CD / Compiler / AOT
 
