@@ -13,7 +13,7 @@
 
 6. Angular PWA 
     1. [PWA in angular](https://medium.com/poka-techblog/turn-your-angular-app-into-a-pwa-in-4-easy-steps-543510a9b626)
-
+    2. [PWA in Angular Simple](https://www.positronx.io/build-progressive-web-app-pwa-with-angular/)
 7. Angular Animation 
     1. [Animation libary ](https://filipows.github.io/angular-animations/)
     2. [Animation using just class AOS](https://www.npmjs.com/package/aos)
