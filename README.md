@@ -1,6 +1,7 @@
 # Angular links and gist: 
 1. Angular Architecture 
-    1. [Design architecture will dealing with high level data](https://angular-academy.com/angular-architecture-best-practices/)
+    1. [Design architecture will dealing with high level data with ngrx](https://angular-academy.com/angular-architecture-best-practices/)
+    2. [Simple Architecture with service](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7)
 
 2. Angular Core  : directives, service, components, forms 
 
