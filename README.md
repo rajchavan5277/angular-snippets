@@ -2,7 +2,7 @@
 1. Angular Architecture 
     1. [Design architecture will dealing with high level data with ngrx](https://angular-academy.com/angular-architecture-best-practices/)
     2. [Simple Architecture with service](https://itnext.io/choosing-a-highly-scalable-folder-structure-in-angular-d987de65ec7)
-
+    3. [Beaking code](https://codeburst.io/breaking-a-large-angular-app-into-microfrontends-fb8f985d549f)
 2. Angular Core  : directives, service, components, forms 
 
 3. Angular Router 
