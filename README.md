@@ -53,3 +53,6 @@
 
 18. Lint, codesmell, sonar, codelyzer:   
   1. Coelyzer(https://www.npmjs.com/package/codelyzer)
+
+19. ngrx : 
+    1. [Preloading stratgey for ngrx](https://stackblitz.com/edit/ngrx-produce-cache-before-request)
