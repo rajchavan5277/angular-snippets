@@ -32,7 +32,8 @@
 
 13. Angular Project Directive struture
 
-14. Angular CheatSheet
+14. Angular CheatSheet: 
+   [Web Workers](https://indepth.dev/stop-using-shared-material-module/)
 
 15. Angular Performace
     1. [Virtual Scroll performace optimization](https://medium.com/frontend-journeys/how-virtual-infinite-scrolling-works-239f7ee5aa58)
